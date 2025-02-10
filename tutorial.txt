@@ -1,0 +1,34 @@
+1. Criar um atalho para abrir o Chrome com um link específico
+
+Clique com o botão direito na área de trabalho e selecione Novo > Atalho.
+Na janela que aparece, digite o seguinte comando:
+
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --kiosk --app="https://gioperrone.github.io/digital-signage-maranata/src/pages/tijuca.html"
+
+no final do link troque "tijuca.html" pela igreja correspondente:
+campo-grande.html
+caxias.html
+copacabana.html
+iraja.html
+jacarepagua.html
+jardim-primavera.html
+lote-xv.html
+meier.html
+nova-iguacu.html
+recreio.html
+rio-das-ostras.html
+sao-joao-de-meriti.html
+tijuca.html
+vila-sao-luiz.html
+
+Clique em Avançar e dê um nome ao atalho.
+
+
+
+2. Configurar o atalho para iniciar com o Windows
+
+Pressione Win + R, digite shell:startup e pressione Enter.
+(Isso abrirá a pasta de inicialização do Windows.)
+Mova o atalho que você criou para dentro dessa pasta.
+
+Reinicie o computador e veja se o site abre automaticamente.
