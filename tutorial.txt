@@ -19,6 +19,7 @@ recreio.html
 rio-das-ostras.html
 sao-joao-de-meriti.html
 tijuca.html
+tijuca-kids.html
 vila-sao-luiz.html
 
 Clique em Avançar e dê um nome ao atalho.
